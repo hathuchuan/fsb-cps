@@ -29,8 +29,8 @@ SESSIONS = [
      "Project nhóm, Skill chuẩn có rubric và kiểm thử biên 5 tình huống; version, changelog và vòng phản hồi cho prompt dùng chung."),
     ("B9", "Phân tích dữ liệu, Dashboard & tối ưu workflow với Claude Cowork",
      "Phân tích Excel/CSV bằng Code Execution, Interactive Dashboard (3 insight + 3 đề xuất), Claude Cowork và đo trước–sau một workflow cá nhân."),
-    ("B10", "Đưa hệ thống vào vận hành: công cụ nhóm trên Artifact, vận hành tiết kiệm & hoàn thiện Skill",
-     "Dựng công cụ dùng chung cho nhóm trên Artifact, vận hành hệ thống tiết kiệm và hoàn thiện Skill chuẩn dùng chung cho nhóm."),
+    ("B10", "Đưa hệ thống vào vận hành: công cụ nhóm, vận hành tiết kiệm & hoàn thiện Skill",
+     "Biến Skill chuẩn thành công cụ đồng nghiệp mở link là dùng, dùng Claude bền mà không hết hạn mức giữa tuần, và chốt Skill sẵn sàng nộp cuối khóa."),
 ]
 
 ARROW = '<svg class="icon" style="width:14px;height:14px"><use href="#i-arrow"/></svg>'
